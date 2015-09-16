@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:55.863691
+#+DATE: 2015-08-30 20:19:56.885784
 #+TITLE: 佛說身毛喜豎經
 #+PROPERTY: CBETA_ID T17n0757
 #+PROPERTY: ID KR6i0453
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 757
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0453_T_000-0591c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0453_T_003-0597b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說身毛喜豎經》卷下¶
+《佛說身毛喜豎經》卷下¶
 ¶
 譯經三藏朝散大夫試鴻臚卿¶
 光梵大師賜紫沙門臣惟淨等¶
@@ -106,7 +105,7 @@
 其骨，或窊、或凸猶如累石，高下不等；又如露¶
 地空閑草舍，兩面透徹，椓木踈離，中復開敞，¶
 互可窺視。我之兩脇，骨節踈露，中復開敞，亦¶
-可互見。又如暑月，日光炎熾所曝之水，至夕¶
+可互見。又如暑月，日光炎熾所⬤之水，至夕¶
 有人，於其水中，覆觀星宿，極深極遠，微微映¶
 現。我之兩目，瘦極深遠，似有所見，亦復如¶
 是！又如苦瓠，青未成熟，人所斷取，而彼枝¶

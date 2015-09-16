@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:55.839747
+#+DATE: 2015-08-30 20:19:56.865652
 #+TITLE: 佛說身毛喜豎經
 #+PROPERTY: CBETA_ID T17n0757
 #+PROPERTY: ID KR6i0453
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 757
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0453_T_000-0591c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0453_T_002-0594b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說身毛喜豎經》卷中¶
+《佛說身毛喜豎經》卷中¶
 ¶
 譯經三藏朝散大夫試鴻臚卿¶
 光梵大師賜紫沙門臣惟淨等¶
@@ -295,7 +294,7 @@
 於所食中不食於[麩-夫+少]，亦不食飯；不食小豆；不¶
 飲華果所造之酒；不飲米所造酒；不食於肉；¶
 不食乳酪及以酥油，亦不食蜜及蜜所造之¶
-果或不飲漿；不食多種爆炙之食，唯飲洗稻¶
+果或不飲漿；不食多種[火*(十/甲/寸)]炙之食，唯飲洗稻¶
 之水，以為資養。或食穢稻；或食茅草或食棘¶
 樹之果；或食生米；或食牛糞；或食樹根枝葉¶
 果實；或復專詣曠野之中，採彼多種根莖枝¶

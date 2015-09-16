@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:55.816288
+#+DATE: 2015-08-30 20:19:56.836997
 #+TITLE: 佛說身毛喜豎經
 #+PROPERTY: CBETA_ID T17n0757
 #+PROPERTY: ID KR6i0453
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 757
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0453_T_000-0591c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0453_T_001-0591c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.757¶
-
- 《佛說身毛喜豎經》卷上¶
+No. 757¶
+《佛說身毛喜豎經》卷上¶
 ¶
 譯經三藏朝散大夫試鴻臚卿¶
 光梵大師賜紫沙門臣惟淨等¶
