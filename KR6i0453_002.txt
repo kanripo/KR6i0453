@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:56.324388
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:39
 #+TITLE: 佛說身毛喜豎經
 #+PROPERTY: CBETA_ID T17n0757
 #+PROPERTY: ID KR6i0453
